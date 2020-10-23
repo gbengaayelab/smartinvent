@@ -1,0 +1,4 @@
+/venv
+__pycache__
+ # not needed if you're using Postgres locally
+inventories/static/
